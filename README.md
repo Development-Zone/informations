@@ -8,4 +8,4 @@ Vous pouvez retrouver tout les cours <a href="https://github.com/Development-Zon
 
 Il y aura aussi des activités proposées, ces activités ne sont pas obligatoire mais cela aide grandement a la progression, surtout a l'apprentissage de l'autonomie et de la recherche. N'oubliez pas qu'a tout moment google est votre ami. Vous avez une erreur ? Il vous suffit de taper le message d'erreur sur google et vous tomberez directement sur des sites (comme stackoverflow ou github), ou des gens exposent le même problème est y trouvent des réponses. 
 
-> **Attention stackoverflow est consseillé mais vous ne devez en aucun cas l'utiliser pour faire du copier-coller comme beaucoup le font.**
+> **Attention stackoverflow est conseillé mais vous ne devez en aucun cas l'utiliser pour faire du copier-coller comme beaucoup le font.**
