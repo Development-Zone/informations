@@ -10,4 +10,8 @@ Il y aura aussi des activités proposées, ces activités ne sont pas obligatoir
 
 > **Attention stackoverflow est conseillé mais vous ne devez en aucun cas l'utiliser pour faire du copier-coller comme beaucoup le font.**
 
-Pour remmettre vos réponses a une activité vous devrez faire ce qu'on appelle une **Pull Request** (une demande de modification du code) dans notre cas on ne modifiera pas le code, cela nous permet juste de voir vos réponses et de vous corriger sur ce qui ne va pas. Au passage vous apprendrez a utiliser Git et GitHub, qui est un des fondamentaux en tant que développeur. (plus d'informations sur le fichier "pull requests")
+# Sommaire
+
+- Présentation de Git
+- Présentation de github
+- Les principales commande de git
